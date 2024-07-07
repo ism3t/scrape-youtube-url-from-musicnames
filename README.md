@@ -13,15 +13,16 @@ This script automates searches on YouTube for a list of music names, extracts th
    npm install puppeteer chalk
    ```
 
-2. **Create a `musicNames.txt` file**:
-   - Place it in the same directory as the script.
-   - Each line should contain a music name.
+2. **Edit the `musicNames.txt` file**:
+   - This file is included in the repository with sample data.
+   - Each line should include a music title, following the format shown in the sample.
 
+### Script Code
 ### Running the Script
 
 1. **Using Node.js**:
    ```bash
-   node ytscraper.mjs
+   node youtube-audio-url-extractor.mjs
    ```
 
 2. **Using the provided batch file** (`run.bat`):
