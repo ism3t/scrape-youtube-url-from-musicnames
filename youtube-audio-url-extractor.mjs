@@ -23,7 +23,7 @@ const delay = (time) => new Promise(resolve => setTimeout(resolve, time));
     return Math.floor(Math.random() * (max - min + 1)) + min;
   };
 
-  const randomDelay = getRandomInt(300, 500); 
+  const randomDelay = getRandomInt(350, 450); 
 
   for (let i = 0; i < musicNames.length; i++) {
     const searchTerm = musicNames[i].trim() + " audio";
