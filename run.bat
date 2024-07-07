@@ -1,4 +1,4 @@
 @echo off
 cd /d %~dp0
-node ytscraper.mjs
+node youtube-audio-url-extractor.mjs
 pause

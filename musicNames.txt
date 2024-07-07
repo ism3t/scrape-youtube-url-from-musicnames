@@ -1,55 +1,49 @@
-Hadise - Fifir Tolerans
-Modern Talking - Brother Louie
-Nines - I See You Shining
-Inna feat. Bob Taylor - Deja Mu
-Recebin Sanad - Gule Gule
-Tarkan - Şımarık
-Sia - Cheap Thrills
-Dua Lipa - Don't Start Now
-Shakira - Waka Waka (This Time for Africa)
-Lady Gaga - Bad Romance
-Jennifer Lopez - On The Floor
-Calvin Harris - Summer
-Rihanna - Only Girl (In The World)
-The Weeknd - Blinding Lights
-Ellie Goulding - Love Me Like You Do
-Katy Perry - Firework
-Ed Sheeran - Shape of You
-Maroon 5 - Sugar
-Justin Timberlake - Can't Stop The Feeling!
-Pitbull - Timber (feat. Kesha)
-Avicii - Wake Me Up
-David Guetta - Titanium (feat. Sia)
-Bruno Mars - Uptown Funk (feat. Mark Ronson)
-Taylor Swift - Shake It Off
-Ariana Grande - Problem (feat. Iggy Azalea)
-Clean Bandit - Rather Be (feat. Jess Glynne)
-Major Lazer - Lean On (feat. MØ & DJ Snake)
-Pharrell Williams - Happy
-Sam Smith - Stay With Me
-Adele - Rolling in the Deep
-Beyoncé - Single Ladies (Put a Ring on It)
-LMFAO - Party Rock Anthem
-OneRepublic - Counting Stars
-Calvin Harris - Feel So Close
-Flo Rida - Good Feeling
-Carly Rae Jepsen - Call Me Maybe
-Icona Pop - I Love It (feat. Charli XCX)
-Meghan Trainor - All About That Bass
-Justin Bieber - Sorry
-Shawn Mendes - Stitches
-Demi Lovato - Cool for the Summer
-Selena Gomez - Come & Get It
-Jason Derulo - Want to Want Me
-Nicki Minaj - Super Bass
-Kesha - Die Young
-Zedd - Clarity (feat. Foxes)
-Halsey - Without Me
-Post Malone - Circles
-Jonas Brothers - Sucker
-Camila Cabello - Havana (feat. Young Thug)
-Black Eyed Peas - I Gotta Feeling
-Kygo - Firestone (feat. Conrad Sewell)
-Bebe Rexha - Meant to Be (feat. Florida Georgia Line)
-Anne-Marie - 2002
-Marshmello & Bastille - Happier
+Blinding Lights - The Weeknd
+Shape of You - Ed Sheeran
+Bohemian Rhapsody - Queen
+Uptown Funk - Mark Ronson ft. Bruno Mars
+Despacito - Luis Fonsi ft. Daddy Yankee
+Smells Like Teen Spirit - Nirvana
+Rolling in the Deep - Adele
+Thriller - Michael Jackson
+Someone Like You - Adele
+Lose Yourself - Eminem
+Thinking Out Loud - Ed Sheeran
+Hotel California - Eagles
+Yesterday - The Beatles
+Billie Jean - Michael Jackson
+Hallelujah - Leonard Cohen
+Sweet Child O' Mine - Guns N' Roses
+Like a Rolling Stone - Bob Dylan
+All of Me - John Legend
+Let It Be - The Beatles
+Take Me to Church - Hozier
+Hey Jude - The Beatles
+Wonderwall - Oasis
+Poker Face - Lady Gaga
+Can't Stop the Feeling! - Justin Timberlake
+Stayin' Alive - Bee Gees
+Dancing Queen - ABBA
+Imagine - John Lennon
+I Will Always Love You - Whitney Houston
+Bohemian Like You - The Dandy Warhols
+Bad Guy - Billie Eilish
+Perfect - Ed Sheeran
+Stairway to Heaven - Led Zeppelin
+Happy - Pharrell Williams
+Halo - Beyoncé
+Born to Run - Bruce Springsteen
+Shake It Off - Taylor Swift
+Don't Stop Believin' - Journey
+Firework - Katy Perry
+Sorry - Justin Bieber
+No Woman, No Cry - Bob Marley
+Rolling in the Deep - Adele
+Senorita - Shawn Mendes & Camila Cabello
+Sunflower - Post Malone & Swae Lee
+Livin' on a Prayer - Bon Jovi
+Smells Like Teen Spirit - Nirvana
+Another One Bites the Dust - Queen
+Radioactive - Imagine Dragons
+Closer - The Chainsmokers ft. Halsey
+Love Yourself - Justin Bieber
